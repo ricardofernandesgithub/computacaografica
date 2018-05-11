@@ -1,0 +1,52 @@
+.header {
+	background-color: #0A6E1B;
+	height: 70px;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+}
+
+.body {
+	position: relative;
+	margin-left: 25px;
+}
+
+.thumbnail {
+	display: inline-block;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
+.p_left {
+	float: left;
+	color: #edf731;
+	font-size: 24pt;
+	margin-left: 10px;
+	line-height: 10px;
+}
+
+.p_right {
+	float: right;
+	color: white;
+	font-size: 24pt;
+	margin-right: 10px;
+	line-height: 10px;
+}
+
+.botao_retroceder {
+	width: 4.5em;
+	background-color: blue;
+	border-radius: 5px;
+	padding: 10px;
+	margin-left: -25px;
+	margin-top: 10px;
+}
+
+.a_botao {
+	text-decoration: none;
+	color: white;
+}
+
+.oculto {
+	color: white;
+}
