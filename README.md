@@ -1,8 +1,8 @@
 # computacaografica
-Academic work about computer graphics using Java 2D and java 3D
+Academic work about computer graphics using Java 2D and Java 3D
 
 
-You can see visit the website present in this repository at:
+You can see the website present in this repository at:
 http://computacaografica20172018.000webhostapp.com/
 
 
